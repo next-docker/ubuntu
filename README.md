@@ -9,4 +9,8 @@ Tag available are
 
 15.10
 
-latest (pointing to 15.10)
+16.04
+
+16.10
+
+latest (pointing to 16.10)
